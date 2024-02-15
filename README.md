@@ -1,1 +1,2 @@
-# therustbook
+# The Rust Book
+
